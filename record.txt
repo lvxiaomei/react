@@ -1,0 +1,6 @@
+1、绝对路径
+在tsconfig.json里面添加baseUrl
+2、代码格式化
+Prettier
+3、git commit message
+commitLint
